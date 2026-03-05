@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/banner.jpeg" alt="Banner" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Francisco Luis Irizar</h1>
 <h3 align="center">Building autonomous robotic systems</h3>
 
